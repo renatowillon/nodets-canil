@@ -21,7 +21,4 @@ server.use((req, res) => {
 
 //Rotas
 
-
-
-
 server.listen(process.env.PORT)
